@@ -11,4 +11,3 @@ I believe in learning by building, breaking, and fixing ✨<br>
 Let’s code, create & caffeinate together ☕💡
 
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-1980&show_icons=true&theme=transparent)
