@@ -1,17 +1,13 @@
-## Hi there 👋
-##Thanks for dropping by 💖
+<!-- 🌼 Hello from Khushi's corner of GitHub! 🌼 -->
 
-<!--
-**khushi-1980/khushi-1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Khushi! 👋💻
 
-Here are some ideas to get you started:
+✨ A curious student currently pursuing *Information Technology* <br>
+🎯 Passionate about all things *Full Stack Development* <br>
+🧠 Currently exploring the magical world of *Frontend* & *Backend* <br>
+🎨 Also diving into the colorful side of tech — *UI/UX Design*! <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by building, breaking, and fixing ✨<br>
+Let’s code, create & caffeinate together ☕💡
+
+
